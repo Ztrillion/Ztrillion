@@ -1,22 +1,13 @@
-### 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=333333&fontColor=6666FF&height=250&section=header&text=Kim%20YeongSung&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=000000&fontColor=6666FF&height=250&section=header&text=Kim%20YeongSung&fontSize=50&rotate=14)
 
-![Ztillion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ztrillion&show_icons=true&theme=dark&title_color=6666FF&text_color=CCCCFF&icon_color=6666FF) 
+---
 
-[![Ztrillion's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ztrillion&show_icons=true&hide_border=true&title_color=6666FF&icon_color=6666FF&layout=compact)](https://github.com/Ztrillion)
-
-<!--
-**Ztrillion/Ztrillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div align=center><h1>👋 Hi, I’m Yeongsung</h1>
+ 
+- 🔭 I’m currently working on ML, DL Enginear, Datascientist
+- 🌱 I’m currently learning Machine Learning, Algorithm, Data Science, Android</div>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+![Ztillion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ztrillion&show_icons=true&theme=dark&title_color=6666FF&text_color=CCCCFF&icon_color=6666FF)
+[![Ztrillion's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ztrillion&show_icons=true&hide_border=true&title_color=6666FF&icon_color=6666FF&layout=compact)](https://github.com/Ztrillion)</div>
