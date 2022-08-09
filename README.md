@@ -1,6 +1,5 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=333366&fontColor=FFFFFF&height=300&section=header&text=Kim%20YeongSung&fontSize=90)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ztrillion)](https://github.com/ryo-ma/github-profile-trophy)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=9999CC&fontColor=FFFFFF&height=300&section=header&text=Kim%20YeongSung&fontSize=50)
 
 ![Ztillion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ztrillion&show_icons=true&theme=dark&title_color=6666FF&text_color=CCCCFF&icon_color=6666FF) [![Ztrillion's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ztrillion&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Ztrillion)
 
