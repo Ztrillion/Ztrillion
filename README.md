@@ -11,8 +11,7 @@
 
 
  
-![Ztillion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ztrillion&show_icons=true&theme=dark&title_color=6666FF&text_color=CCCCFF&icon_color=6666FF)
-[![Ztrillion's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ztrillion&show_icons=true&hide_border=true&title_color=6666FF&icon_color=6666FF&layout=compact)](https://github.com/Ztrillion)
+![Ztillion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ztrillion&show_icons=true&theme=dark&title_color=6666FF&text_color=CCCCFF&icon_color=6666FF)[![Ztrillion's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ztrillion&show_icons=true&hide_border=true&title_color=6666FF&icon_color=6666FF&layout=compact)](https://github.com/Ztrillion)
  
 
  
