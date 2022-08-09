@@ -4,8 +4,8 @@
 
 <div align=center><h1>👋 Hi, I’m Yeongsung</h1></div>
  
-- 🔭 I’m currently working on ML, DL Enginear, Datascientist
-- 🌱 I’m currently learning Machine Learning, Algorithm, Data Science, Android
+- 🔭 I’m currently working on **ML, DL Enginear, Datascientist**
+- 🌱 I’m currently learning **Machine Learning, Algorithm, Data Science, Android**
 
 ---
 
