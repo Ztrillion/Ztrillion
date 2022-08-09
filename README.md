@@ -1,11 +1,9 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=333333&fontColor=6666FF&height=250&section=header&text=Kim%20YeongSung&fontSize=50)
 
-[![Solved.ac
-Ztrillion](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.acZtillion](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-[![Solved.ac
-Ztrillion](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.acZtrillion](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ![Ztillion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ztrillion&show_icons=true&theme=dark&title_color=6666FF&text_color=CCCCFF&icon_color=6666FF) 
 
