@@ -1,6 +1,6 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=333366&fontColor=FFFFFF&height=400&section=header&text=Kim%20YeongSung&fontSize=90)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ztrillion)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Ztrillion/Ztrillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
