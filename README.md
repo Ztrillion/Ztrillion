@@ -1,4 +1,5 @@
-### ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=400&section=header&text=Kim YeongSung&fontSize=40)
+### 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **Ztrillion/Ztrillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
